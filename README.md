@@ -1,1 +1,1 @@
-# GeshinProject
+# GenshinProject
