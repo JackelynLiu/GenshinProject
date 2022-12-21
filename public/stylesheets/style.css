@@ -6,3 +6,9 @@ body {
 a {
   color: #00B7FF;
 }
+
+.elements {
+  size: auto;
+  height: 10%;
+  width: 10%;
+}
